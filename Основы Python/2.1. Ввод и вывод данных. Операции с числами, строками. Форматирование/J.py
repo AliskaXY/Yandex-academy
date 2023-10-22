@@ -1,0 +1,6 @@
+name = input()
+locker = input()
+print(f"Группа №{locker[0]}.")
+print(f"{locker[2]}. {name}.")
+print(f"Шкафчик: {locker}.")
+print(f"Кроватка: {locker[1]}.")

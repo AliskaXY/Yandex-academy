@@ -1,0 +1,5 @@
+price = int(input())
+weight = int(input())
+money = int(input())
+change = money - (price * weight)
+print(change)
