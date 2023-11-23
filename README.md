@@ -5,5 +5,6 @@
 Ответы, решения, ключи к задачам из [хэндбуков от Яндекс Академии](https://academy.yandex.ru/handbook).
 
 На данный момент я изучаю хендбуки:
-* ["Основы алгоритмов"](https://academy.yandex.ru/handbook/algorithms)
+
 * ["Основы Python"](https://academy.yandex.ru/handbook/python)
+* ["Основы алгоритмов"](https://academy.yandex.ru/handbook/algorithms)
